@@ -4,7 +4,7 @@ A collections of pcb image design with KiCad
 
 ## STM32 Minimum Design
 
-![Image of STM32 Minimum Design](https://github.com/Lmanangka/kicad-pcb-design/blob/main/img/STM32-minimum-design?raw=true)
+![Image of STM32 Minimum Design](https://github.com/Lmanangka/kicad-pcb-design/blob/main/img/STM32-minimum-design.png?raw=true)
 
 Features:
 
